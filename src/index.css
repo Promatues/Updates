@@ -1,0 +1,20 @@
+/* Reset some default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set a default font for the entire application */
+  body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #D9D9D9;
+    color: #333;
+  }
+  
+  /* Basic styling for links */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
